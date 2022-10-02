@@ -1,0 +1,50 @@
+li {
+    list-style: none;
+}
+img{
+    display: block;
+    margin:auto;
+}
+body{
+    margin: 10px;
+}
+.a{
+    font-size: 16px;
+    text-align: center;
+    margin-left: 125px;
+    margin-right: 125px;
+}
+.b{
+    font-size: 20px;
+    background-color: #EEEE ;
+    width: 99%;
+}
+.cards{
+    text-align: center;
+}
+.first{
+    float:left;
+    width:35%;
+    background-color: rgb(126 229 218);
+    padding: 15px;
+    margin: 1px;
+}
+.second{
+    float: left;
+    background-color: rgb(112,204,194);
+    margin: 1px;
+    text-align: center;
+    width: 19%;
+    padding: 6px;
+}
+.third{
+    float: left;
+    background-color: rgb(98,179,170);
+    margin: 1px;
+    text-align: center;
+    width: 40%;
+    padding: 3px;
+}
+footer{
+    text-align: center;
+}
